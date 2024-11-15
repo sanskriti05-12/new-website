@@ -1,0 +1,54 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+#navbar nav{
+    display: flex;
+    align-items: center;
+    width: 100%;
+    
+    
+}
+
+
+#navbar{
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+#navbar nav ul{
+    display: flex;
+    gap: 8%;
+    list-style: none;
+    justify-content: space-between;
+    
+}
+#navbar nav ul li a{
+    text-decoration: none;
+    text-align: center;
+    color: grey;
+    align-items: center;
+    text-align: center;
+    font-size: 17px;
+    text-transform: uppercase;
+    
+    
+    
+    
+}
+h1{
+    margin-right: 20%;
+    margin-left: 5%;
+    color: rgb(247, 29, 247);
+}
+#navbar nav ul li a:hover{
+    background-color: plum;
+}
+#image h2{
+    background-color: rgb(red, green, rgb(26, 26, 245));
+    font-weight: 700;
+    
+}
+h2{
+    line-height: 1.5%;
+}
